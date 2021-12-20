@@ -1,2 +1,3 @@
 dataset/*
-.pkl/*
+train_df.pkl
+test_df.pkl
