@@ -1,7 +1,7 @@
 dataset/*
-train_df.pkl
-test_df.pkl
-train_df_nohashtags.pkl
-test_df_nohashtags.pkl
+pkl/*
 *.swp
 w14_109136501.ipynb
+submission/*
+model.h5
+model/*
